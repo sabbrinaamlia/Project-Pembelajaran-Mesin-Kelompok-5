@@ -1,0 +1,2 @@
+# Project-Pembelajaran-Mesin-Kelompok-5
+In'am Cavan Rijal Musyafa(24031554184) Sabrina Putri Amalia(24031554055) Variesa Sabita Mumtaza Habib(24031554083) - Kelas 2024E - S1 Sains Data - FMIPA Universitas Negeri Surabaya Untuk memenuhi proyek akhir Pembelajaran Mesin - Perbandingan CNN &amp; SVM Berbasis Image Processing untuk Klasifikasi Jenis Sel Darah Manusia Berdasarkan Citra Mikroskopis
