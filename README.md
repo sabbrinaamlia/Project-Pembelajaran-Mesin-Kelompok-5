@@ -1,4 +1,4 @@
-#🩸 Blood Cell Classification for Cancer Detection using SVM and CNN
+**🩸 Blood Cell Classification for Cancer Detection using SVM and CNN**
 📌 Deskripsi Proyek Proyek ini bertujuan untuk melakukan klasifikasi citra sel darah menggunakan pendekatan Machine Learning dan Deep Learning pada dataset Blood Cell Images for Cancer Detection.
 
 Penelitian dilakukan dengan membandingkan performa dua model klasifikasi:
